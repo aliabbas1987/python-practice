@@ -1,0 +1,80 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Learning\python\practice\.metadata\.plugins\org.eclipse.core.resources\.projects\functions\com.python.pydev.analysis\v2_indexcache
+functionAsParameter|1585806133226868000|D:\Learning\python\practice\functions\functionAsParameter.py
+deafultArguments|1585806933618866000|D:\Learning\python\practice\functions\deafultArguments.py
+doubleusingmap|1585808285080987000|D:\Learning\python\practice\functions\doubleusingmap.py
+lstFun|1585806353485135000|D:\Learning\python\practice\functions\lstFun.py
+localglobal|1585805767909103000|D:\Learning\python\practice\functions\localglobal.py
+sumlamda|1585807926153852000|D:\Learning\python\practice\functions\sumlamda.py
+returnFun|1585806265340321000|D:\Learning\python\practice\functions\returnFun.py
+doubledecr|1585809089953989000|D:\Learning\python\practice\functions\doubledecr.py
+cubelambda|1585807614662500000|D:\Learning\python\practice\functions\cubelambda.py
+evenoddlamda|1585807782444273000|D:\Learning\python\practice\functions\evenoddlamda.py
+sumusingreduce|1585808480477447000|D:\Learning\python\practice\functions\sumusingreduce.py
+arguments|1585806863396395000|D:\Learning\python\practice\functions\arguments.py
+calc|1585805467449624000|D:\Learning\python\practice\functions\calc.py
+evenoddfilter|1585808139072161000|D:\Learning\python\practice\functions\evenoddfilter.py
+avarage|1585805273655178000|D:\Learning\python\practice\functions\avarage.py
+recursion|1585806727136228000|D:\Learning\python\practice\functions\recursion.py
+nestedfunction|1585805974221431000|D:\Learning\python\practice\functions\nestedfunction.py
+-- END DISKCACHE
+-- START DICTIONARY
+34
+27=D:\Learning\python\practice\functions\lstFun.py
+25=D:\Learning\python\practice\functions\recursion.py
+32=doubleusingmap
+19=D:\Learning\python\practice\functions\sumlamda.py
+3=D:\Learning\python\practice\functions\arguments.py
+29=D:\Learning\python\practice\functions\sumusingreduce.py
+31=D:\Learning\python\practice\functions\doubleusingmap.py
+24=evenoddlamda
+7=D:\Learning\python\practice\functions\calc.py
+30=sumusingreduce
+26=recursion
+14=functionAsParameter
+6=deafultArguments
+11=D:\Learning\python\practice\functions\returnFun.py
+13=D:\Learning\python\practice\functions\functionAsParameter.py
+23=D:\Learning\python\practice\functions\evenoddlamda.py
+28=lstFun
+16=localglobal
+9=D:\Learning\python\practice\functions\doubledecr.py
+17=D:\Learning\python\practice\functions\nestedfunction.py
+20=sumlamda
+5=D:\Learning\python\practice\functions\deafultArguments.py
+12=returnFun
+10=doubledecr
+15=D:\Learning\python\practice\functions\localglobal.py
+22=cubelambda
+1=D:\Learning\python\practice\functions\avarage.py
+4=arguments
+8=calc
+21=D:\Learning\python\practice\functions\cubelambda.py
+34=evenoddfilter
+2=avarage
+18=nestedfunction
+33=D:\Learning\python\practice\functions\evenoddfilter.py
+-- END DICTIONARY
+-- START TREE 1
+16
+ava|1|avar!1^1#5*18@
+avg|2|avg!3^1#5*34@avg!5^1#5*50@
+cal|1|calc!7^1#5*66@
+cub|0|
+dec|1|decor!9^12#5*82@
+dis|4|dis!11^1#5*98@dis!13^1#5*114@dis!15^3#5*130@dis!17^1#5*146@
+f|3|f!19^5#1*163@f!21^5#1*179@f!23^1#1*195@
+fac|1|fact!25^1#5*210@
+fun|3|func!19^1#5*162@fun!11^6#1*99@fun!27^1#5*226@
+lst|3|lst!29^2#1*243@lst!31^1#1*259@lst!33^1#1*275@
+nam|1|name!13^3#5*114@
+num|1|num!9^18#5*82@
+res|5|res!1^3#1*19@resl!33^2#1*275@resl!31^2#1*259@resl!29^3#1*243@res!7^7#1*67@
+reu|0|
+x|1|x!15^1#1*131@
+z|1|z!15^8#1*131@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

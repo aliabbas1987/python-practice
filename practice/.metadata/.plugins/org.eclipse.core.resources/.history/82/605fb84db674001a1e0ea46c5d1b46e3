@@ -1,0 +1,8 @@
+class Course:
+    def __init__(self,name,ratingList):
+        self.name=name
+        self.ratings=ratingList
+pC=Course('python',[1,2,3,4,5])
+
+print(pC.name)
+print(pC.ratings)

@@ -1,0 +1,3 @@
+import myMath
+print(myMath.sum(10, 20))
+print(myMath.sub(30, 20))

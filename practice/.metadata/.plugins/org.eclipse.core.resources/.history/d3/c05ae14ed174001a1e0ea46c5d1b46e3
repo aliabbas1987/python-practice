@@ -1,0 +1,12 @@
+class Student:
+    major = 'CSE'
+    def __init__(self,rollNumber,name):
+        self.rollNumber=rollNumber
+        self.name=name
+s1=Student()
+s2=Student()
+s1.name='Ali'
+s2.name='Zain'
+s1.rollNumber=1
+s2.rollNumber=2
+print(s1.major)

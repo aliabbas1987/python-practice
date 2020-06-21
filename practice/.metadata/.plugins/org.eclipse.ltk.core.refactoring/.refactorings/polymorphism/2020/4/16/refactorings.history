@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;polymorphism/ducktyping&apos; to &apos;ducktyping.py&apos;" description="Rename resource &apos;ducktyping&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="ducktyping" name="ducktyping.py" stamp="1586680921556" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;polymorphism/abstractClass&apos; to &apos;abstractClass.py&apos;" description="Rename resource &apos;abstractClass&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="abstractClass" name="abstractClass.py" stamp="1586684112154" updateReferences="true"/>
+</session>

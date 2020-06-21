@@ -1,0 +1,16 @@
+INSTUPdependancy_injection
+D:\Learning\python\practice\polymorphism\dependancy_injection.py
+INFOS:&&1|1|2|0|3|1|7&&2|4|2|1|3|2|9&&3|5|2|6|3|3|9&&2|7|2|1|3|5|9&&1|8|2|0|3|7|7&&2|9|2|8|3|8|9&&1|10|2|0|3|10|7&&2|9|2|10|3|11|9&&3|11|2|0|3|14|1&&3|12|2|0|3|15|1&&3|13|2|0|3|18|1&&3|12|2|0|3|19|1
+Flight.__init__=6
+startEngine=7
+be=13
+ae=11
+Flight=1
+f=12
+start=9
+BoingEngine=10
+AirBusEngine=8
+dependancy_injection=2
+engine=5
+__init__=4
+D:\Learning\python\practice\polymorphism\dependancy_injection.py=3

@@ -1,0 +1,6 @@
+import time
+
+epochsec = time.time()
+print(epochsec)
+t = time.ctime(epochsec)
+print(t)

@@ -1,0 +1,12 @@
+userInput=int(input("Enter Number of your Choice: "))
+i=1
+while(i<=userInput):
+    print(i%10)
+    if(i==100):
+        break
+    if(i%10==0):
+        continue
+    print(i)
+    i+=1
+    
+    

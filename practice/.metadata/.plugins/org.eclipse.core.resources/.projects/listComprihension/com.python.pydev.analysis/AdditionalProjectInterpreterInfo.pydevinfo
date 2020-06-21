@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Learning\python\practice\.metadata\.plugins\org.eclipse.core.resources\.projects\listComprihension\com.python.pydev.analysis\v2_indexcache
+evenNumbers|1585812059516950000|D:\Learning\python\practice\listComprihension\evenNumbers.py
+CubesofNumbers|1585811914314227000|D:\Learning\python\practice\listComprihension\CubesofNumbers.py
+commonelements|1585812511237966000|D:\Learning\python\practice\listComprihension\commonelements.py
+productoflists|1585812282866974000|D:\Learning\python\practice\listComprihension\productoflists.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+8=evenNumbers
+1=D:\Learning\python\practice\listComprihension\commonelements.py
+6=CubesofNumbers
+5=D:\Learning\python\practice\listComprihension\CubesofNumbers.py
+2=commonelements
+3=D:\Learning\python\practice\listComprihension\productoflists.py
+4=productoflists
+7=D:\Learning\python\practice\listComprihension\evenNumbers.py
+-- END DICTIONARY
+-- START TREE 1
+5
+a|2|a!1^1#1*19@a!3^1#1*35@
+b|2|b!3^2#1*35@b!1^2#1*19@
+lst|2|lst!5^10#1*51@lst!7^5#1*67@
+res|1|result!1^3#1*19@
+z|1|z!3^3#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

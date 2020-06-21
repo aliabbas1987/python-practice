@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;OOPs Basics/geterSetter&apos; to &apos;geterSetter.py&apos;" description="Rename resource &apos;geterSetter&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="geterSetter" name="geterSetter.py" stamp="1585824365453" updateReferences="true"/>
+</session>

@@ -1,0 +1,18 @@
+INSTUPevenodd
+D:\Learning\python\practice\Multi Threading\evenodd.py
+INFOS:&&1|1|2|0|3|4|7&&2|4|2|1|3|5|9&&3|5|2|6|3|6|9&&2|7|2|1|3|8|9&&1|8|2|0|3|17|7&&2|4|2|8|3|18|9&&3|9|2|10|3|19|9&&3|11|2|10|3|20|9&&2|7|2|8|3|21|9&&1|12|2|0|3|33|7&&2|4|2|12|3|34|9&&3|13|2|14|3|35|9&&2|15|2|12|3|36|9
+evenodd=2
+don=15
+evenOddNumber=1
+c=11
+eoN=9
+evenOdd=5
+D:\Learning\python\practice\Multi Threading\evenodd.py=3
+odd.__init__=14
+den=7
+odd=12
+even.__init__=10
+evenN=13
+even=8
+evenOddNumber.__init__=6
+__init__=4

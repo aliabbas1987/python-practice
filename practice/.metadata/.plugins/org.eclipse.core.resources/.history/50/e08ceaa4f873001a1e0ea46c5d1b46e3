@@ -1,0 +1,4 @@
+r=float(input("Enter area of the Circle: "))
+pi=3.27
+area=pi*r**2
+print(area)

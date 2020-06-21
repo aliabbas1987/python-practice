@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Learning\python\practice\.metadata\.plugins\org.eclipse.core.resources\.projects\basicprograms\com.python.pydev.analysis\v2_indexcache
+areaoftheCircle|1585732234417786000|D:\Learning\python\practice\basicprograms\areaoftheCircle.py
+avarage|1585732013490217000|D:\Learning\python\practice\basicprograms\avarage.py
+studentdetails|1585731816035492000|D:\Learning\python\practice\basicprograms\studentdetails.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=D:\Learning\python\practice\basicprograms\areaoftheCircle.py
+2=areaoftheCircle
+3=D:\Learning\python\practice\basicprograms\studentdetails.py
+4=studentdetails
+-- END DICTIONARY
+-- START TREE 1
+5
+are|1|area!1^4#1*19@
+mar|1|marks!3^4#1*35@
+r|1|r!1^2#1*19@
+sid|1|Sid!3^2#1*35@
+sna|1|sname!3^3#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

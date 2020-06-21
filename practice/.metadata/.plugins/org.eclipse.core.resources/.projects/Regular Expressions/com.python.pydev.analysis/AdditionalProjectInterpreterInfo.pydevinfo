@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Learning\python\practice\.metadata\.plugins\org.eclipse.core.resources\.projects\Regular Expressions\com.python.pydev.analysis\v2_indexcache
+search|1588818796096876000|D:\Learning\python\practice\Regular Expressions\search.py
+subitute|1588819222393916000|D:\Learning\python\practice\Regular Expressions\subitute.py
+split|1588819068936750000|D:\Learning\python\practice\Regular Expressions\split.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=subitute
+3=D:\Learning\python\practice\Regular Expressions\search.py
+4=search
+5=D:\Learning\python\practice\Regular Expressions\split.py
+6=split
+1=D:\Learning\python\practice\Regular Expressions\subitute.py
+-- END DICTIONARY
+-- START TREE 1
+3
+res|1|res!1^3#1*19@
+reu|1|reustl!3^3#1*35@
+str|4|str!1^2#1*19@str!5^2#1*51@stri!5^3#1*51@str!3^2#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

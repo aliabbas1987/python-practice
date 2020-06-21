@@ -1,0 +1,2 @@
+lst = {dict(x) for x in input("Enter Marks of Subjects Comma Separated: ").split(":")}
+print(type(lst))

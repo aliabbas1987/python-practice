@@ -1,0 +1,9 @@
+from _ast import Is
+s='you are great'
+print(s)
+ms="""
+your name Is
+ali abbas
+you are great person
+"""
+print(ms*2)

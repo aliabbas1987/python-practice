@@ -1,0 +1,6 @@
+"""s=input()
+print(s)
+print("enter value: ")
+print(s)"""
+i=int(input("Enter a number: "))
+print(i)

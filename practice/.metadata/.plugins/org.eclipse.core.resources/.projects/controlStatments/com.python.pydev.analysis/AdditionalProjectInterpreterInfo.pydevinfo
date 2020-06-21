@@ -1,0 +1,52 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Learning\python\practice\.metadata\.plugins\org.eclipse.core.resources\.projects\controlStatments\com.python.pydev.analysis\v2_indexcache
+whileloop|1585740333237434000|D:\Learning\python\practice\controlStatments\whileloop.py
+oddnumber|1585740802035425000|D:\Learning\python\practice\controlStatments\oddnumber.py
+forloop|1585741440274492000|D:\Learning\python\practice\controlStatments\forloop.py
+assignmentLoop|1585744214042023000|D:\Learning\python\practice\controlStatments\assignmentLoop.py
+breakdemo|1585742033523448000|D:\Learning\python\practice\controlStatments\breakdemo.py
+evenorodd|1585736365649260000|D:\Learning\python\practice\controlStatments\evenorodd.py
+productoflist|1585741651159009000|D:\Learning\python\practice\controlStatments\productoflist.py
+multiplicationTable|1585741936747291000|D:\Learning\python\practice\controlStatments\multiplicationTable.py
+assert|1585742474262447000|D:\Learning\python\practice\controlStatments\assert.py
+assignment|1585740314514292000|D:\Learning\python\practice\controlStatments\assignment.py
+continudemo|1585742233419925000|D:\Learning\python\practice\controlStatments\continudemo.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+11=D:\Learning\python\practice\controlStatments\assert.py
+15=D:\Learning\python\practice\controlStatments\whileloop.py
+5=D:\Learning\python\practice\controlStatments\oddnumber.py
+9=D:\Learning\python\practice\controlStatments\breakdemo.py
+10=breakdemo
+13=D:\Learning\python\practice\controlStatments\multiplicationTable.py
+2=assignment
+19=D:\Learning\python\practice\controlStatments\continudemo.py
+7=D:\Learning\python\practice\controlStatments\productoflist.py
+16=whileloop
+1=D:\Learning\python\practice\controlStatments\assignment.py
+6=oddnumber
+4=assignmentLoop
+8=productoflist
+18=evenorodd
+14=multiplicationTable
+12=assert
+3=D:\Learning\python\practice\controlStatments\assignmentLoop.py
+20=continudemo
+17=D:\Learning\python\practice\controlStatments\evenorodd.py
+-- END DICTIONARY
+-- START TREE 1
+8
+ava|1|avarage!1^6#5*19@
+i|2|i!3^2#1*35@i!5^2#1*51@
+lst|2|lst!7^1#1*67@lst!9^1#1*83@
+mar|1|marksList!1^1#1*19@
+num|2|num!11^1#1*99@number!13^1#1*115@
+pro|1|prod!7^2#1*67@
+use|1|userInput!3^1#1*35@
+x|3|x!15^1#1*131@x!17^1#1*147@x!19^1#1*163@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

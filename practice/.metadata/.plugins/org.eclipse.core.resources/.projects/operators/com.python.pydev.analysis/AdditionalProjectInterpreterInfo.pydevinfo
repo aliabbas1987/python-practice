@@ -1,0 +1,26 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Learning\python\practice\.metadata\.plugins\org.eclipse.core.resources\.projects\operators\com.python.pydev.analysis\v2_indexcache
+logicaloperator|1585730178576911000|D:\Learning\python\practice\operators\logicaloperator.py
+comperisionoperator|1585729817466975000|D:\Learning\python\practice\operators\comperisionoperator.py
+assignmentoperator|1585729700841321000|D:\Learning\python\practice\operators\assignmentoperator.py
+arithmaticoperators|1585729485878259000|D:\Learning\python\practice\operators\arithmaticoperators.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=logicaloperator
+1=D:\Learning\python\practice\operators\assignmentoperator.py
+3=D:\Learning\python\practice\operators\logicaloperator.py
+2=assignmentoperator
+-- END DICTIONARY
+-- START TREE 1
+5
+a|1|a!1^3#1*19@
+b|1|b!1^3#3*19@
+c|1|c!1^3#5*19@
+x|1|x!3^1#1*35@
+y|1|y!3^2#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

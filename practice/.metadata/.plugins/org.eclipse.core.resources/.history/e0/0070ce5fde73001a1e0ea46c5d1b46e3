@@ -1,0 +1,5 @@
+a=10
+b=20.54
+d=true
+c="I am best"
+print(a,b,c,d)

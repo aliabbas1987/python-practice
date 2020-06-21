@@ -1,0 +1,2 @@
+dict1={1:'ali',2:'zain',3:'maira'}
+print(dict1.values())

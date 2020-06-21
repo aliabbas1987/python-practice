@@ -1,0 +1,9 @@
+def decor(func):
+    def innerFunc():
+        resul=func()
+        return resul*2
+    return innerFunc
+def num():
+    return 5
+reus=decor(num)
+print(reus())

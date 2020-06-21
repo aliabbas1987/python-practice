@@ -1,0 +1,11 @@
+dictRange=3
+subDict={}
+for x in range(dictRange):
+    subName = input("Enter Subject Name: ")
+    subMarks =  input("Enter Subject Marks: ")
+    subDict[subName]=subMarks
+    
+       
+
+
+print(subDict)

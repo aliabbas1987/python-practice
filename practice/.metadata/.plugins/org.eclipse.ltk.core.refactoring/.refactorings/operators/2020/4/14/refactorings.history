@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;operators/assignmentoperator&apos; to &apos;assignmentoperator.py&apos;" description="Rename resource &apos;assignmentoperator&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="assignmentoperator" name="assignmentoperator.py" stamp="1585729575821" updateReferences="true"/>
+</session>

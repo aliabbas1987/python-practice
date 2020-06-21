@@ -1,0 +1,4 @@
+from datetime import *
+d = date(2020,05,07)
+t =time(12,15)
+print(datetime.combine(d,t))

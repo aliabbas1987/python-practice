@@ -1,0 +1,11 @@
+import urllib.request
+try:
+    ur = urllib.request.urlopen("http://nitb.ddns.net:10030/")
+    content=ur.url.read()
+except urllib.error.HTTPError:
+    print("url not avialable")
+    exit()
+
+f = open("ministrywebsite.html",'wb')
+f.write(content)
+f.close()

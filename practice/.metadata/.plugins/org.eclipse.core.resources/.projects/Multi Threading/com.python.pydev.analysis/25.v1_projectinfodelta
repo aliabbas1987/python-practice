@@ -1,0 +1,11 @@
+INSTUPevenodd
+D:\Learning\python\practice\Multi Threading\evenodd.py
+INFOS:&&2|1|2|0|3|3|5&&2|4|2|0|3|12|5&&2|5|2|0|3|20|5&&3|6|2|0|3|32|1&&3|7|2|0|3|36|1&&3|8|2|0|3|40|1
+MainThread=5
+evenodd=2
+D:\Learning\python\practice\Multi Threading\evenodd.py=3
+EvenNumbers=1
+t1=6
+OddNumbers=4
+t2=7
+t3=8

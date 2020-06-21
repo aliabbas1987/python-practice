@@ -1,0 +1,7 @@
+print("hello \n"*4)
+a,b=1,2
+print(a,b,sep=',')
+
+name="ali"
+marks=2.2
+print("name is [], marks are []" format(name,marks))

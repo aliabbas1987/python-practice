@@ -1,0 +1,7 @@
+import time,datetime
+
+epochsec = time.time()
+print(epochsec)
+t = time.ctime(epochsec)
+print(t)
+print(datetime.today())

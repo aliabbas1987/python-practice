@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;inheritance/inheritance _intro&apos; to &apos;inheritance _intro.py&apos;" description="Rename resource &apos;inheritance _intro&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="inheritance _intro" name="inheritance _intro.py" stamp="1586678581991" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;inheritance/overriding&apos; to &apos;overriding.py&apos;" description="Rename resource &apos;overriding&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="overriding" name="overriding.py" stamp="1586679814597" updateReferences="true"/>
+</session>

@@ -1,0 +1,47 @@
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link href="/Content/Login/login.css" rel="stylesheet" />
+</head>
+<body>
+    <br /> <br /> <br /><br /> <br />
+<form action="/Login" data-ajax="true" data-ajax-method="POST" data-ajax-success="OnSuccess" id="form0" method="post"><input name="__RequestVerificationToken" type="hidden" value="8z79fP2LF1iCE5qKTCD-pXyPsYQdnurIFz7HnUhT0HypI1K_0Oc0mwQM2YxRGrV_zct15a_KUEKPJsDlvDxDRzbod4PA5qbl-Lz0tNsftTo1" />        <form style="height:407px;width:361px;">
+            <h1> Log in</h1>
+            <div class="inset">
+                <p>
+                    <label class="control-label col-md-2" for="UserName" style="color:#fff">UserName</label>
+                    <input class="form-control text-box single-line" id="UserName" name="UserName" required="required" style="color:#fff" type="text" value="" />
+                </p>
+                <p>
+                    <label class="control-label col-md-2" for="Password" style="color:#fff">Password</label>
+                    <input class="form-control text-box single-line" id="Password" name="Password" required="required" style="color:#fff" type="password" value="" />
+                </p>
+                <span style="color: red;font-size: 14px;" id="errMsg"></span>
+            </div>
+            <div class="p-container">
+                <button type="submit" class="myButton" name="go" id="go">Log in</button>
+
+            </div>
+
+        </form>
+</form>    <script src="/Scripts/jquery.min.js"></script>
+    <script src="/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script type="text/javascript">
+        function OnSuccess(data) {
+            if (data.ErrorMessage) {
+                var errMsg = data.ErrorMessage;
+                $('#errMsg').html(errMsg);
+            } else if (data.RedirectUrl) {
+                window.location.href = data.RedirectUrl;
+            }
+        }
+    </script>
+
+</body>
+</html>

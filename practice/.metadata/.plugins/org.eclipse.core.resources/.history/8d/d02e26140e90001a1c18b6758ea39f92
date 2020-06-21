@@ -1,0 +1,4 @@
+import re
+stri="take up One idea at time, One great idea"
+resu=re.findall(r'O\w+',stri)
+print(resu)

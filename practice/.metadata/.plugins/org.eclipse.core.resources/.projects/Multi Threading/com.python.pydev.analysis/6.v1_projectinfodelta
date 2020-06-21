@@ -1,0 +1,19 @@
+INSTUPthreadCommunicationusingFlag
+D:\Learning\python\practice\Multi Threading\threadCommunicationusingFlag.py
+INFOS:&&1|1|2|0|3|4|7&&2|4|2|1|3|5|9&&3|5|2|6|3|6|9&&3|7|2|6|3|7|9&&2|8|2|1|3|8|9&&1|9|2|0|3|13|7&&2|4|2|9|3|14|9&&3|10|2|11|3|15|9&&2|12|2|9|3|16|9&&3|13|2|0|3|21|1&&3|14|2|0|3|22|1&&3|15|2|0|3|24|1&&3|16|2|0|3|25|1
+Consumer.__init__=11
+prod=10
+c=14
+D:\Learning\python\practice\Multi Threading\threadCommunicationusingFlag.py=3
+orderPlace=7
+threadCommunicationusingFlag=2
+poducts=5
+consume=12
+producer.__init__=6
+produce=8
+p=13
+Consumer=9
+producer=1
+__init__=4
+t1=15
+t2=16

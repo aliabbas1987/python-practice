@@ -1,0 +1,19 @@
+dictRange=3
+subDict={}
+for x in range(dictRange):
+    subName = input("Enter Subject Name: ")
+    subMarks =  int(input("Enter Subject Marks: "))
+    subDict[subName.title()]=subMarks
+    
+if(subDict["Maths"]< 35 or subDict["Physics"]< 35 or subDict["Chemistry"]< 35):
+    print("You have failed the exam, Please try again")
+elif(subDict["Maths"]>= 35 or subDict["Physics"]>=35 or subDict["Chemistry"]>= 35):
+    avarage= (subDict["Maths"]+subDict["Physics"]+subDict["Chemistry"])/3
+    if(avarage<=59):
+        print("You have C Grade")
+    elif(avarage<=69):
+        print("You have B Grade")
+    else:
+        print("You have A Grade")
+else:
+    print("Please Input subject and Marks one by one, Maths, Physics, Chemistry")

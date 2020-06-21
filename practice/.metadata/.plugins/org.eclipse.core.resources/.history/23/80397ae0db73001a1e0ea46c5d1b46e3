@@ -1,0 +1,2 @@
+s='you are owsome'
+print(s)

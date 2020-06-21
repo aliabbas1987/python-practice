@@ -1,0 +1,20 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\Learning\python\practice\.metadata\.plugins\org.eclipse.core.resources\.projects\CommandLineArguments\com.python.pydev.analysis\v2_indexcache
+import|1585804724720727000|D:\Learning\python\practice\CommandLineArguments\import.py
+demo|1585804444594353000|D:\Learning\python\practice\CommandLineArguments\demo.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=D:\Learning\python\practice\CommandLineArguments\import.py
+2=import
+3=D:\Learning\python\practice\CommandLineArguments\demo.py
+4=demo
+-- END DICTIONARY
+-- START TREE 1
+1
+lst|2|lst!1^2#1*19@lst!3^2#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

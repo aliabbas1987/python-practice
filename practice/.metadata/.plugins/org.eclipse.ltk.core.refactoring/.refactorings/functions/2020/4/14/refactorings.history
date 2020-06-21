@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;functions/nestedfunction&apos; to &apos;nestedfunction.py&apos;" description="Rename resource &apos;nestedfunction&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="nestedfunction" name="nestedfunction.py" stamp="1585805814275" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;functions/fileUsesModules&apos; to &apos;fileUsesModules.py&apos;" description="Rename resource &apos;fileUsesModules&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="fileUsesModules" name="fileUsesModules.py" stamp="1585811197480" updateReferences="true"/>
+</session>

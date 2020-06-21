@@ -1,0 +1,45 @@
+from threading import *;
+from time import *;
+
+class evenOddNumber:
+    def __init__(self,evenOdd):
+        self.evenOdd=evenOdd
+   
+    def den(self):
+        
+        self.evenOdd.c.acquire()
+        for i in self.evenOdd:
+            sleep(1)
+            print(i)
+        self.evenOdd.c.notify()
+        self.evenOdd.c.release()
+        
+class even:
+    def __init__(self):
+        self.eoN=[]
+        self.c=Condition()
+    def den(self):
+        
+        self.c.acquire()
+        for i in self.eoN:
+            sleep(1)
+            j=1
+            while(j>101):
+                if(j%2==0):
+                    print(j)
+                    self.eoN.append(str(j))
+        self.c.notify()
+        self.c.release()
+class odd:
+    def __init__(self,evenN):
+        self.evenN=evenN
+    def don(self):
+        
+        self.evenN.c.acquire()
+        j=1
+            while(j>101):
+                if(j%2==0):
+                    print(j)
+                    self.eoN.append(str(j))
+        self.c.notify()
+        self.c.release()
